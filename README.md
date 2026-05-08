@@ -1,16 +1,48 @@
-# React + Vite
+# REST Countries 🌍
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend application built with React and Tailwind CSS using the REST Countries API.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project allows users to search and explore countries around the world using data from the REST Countries API.
 
-## React Compiler
+Users can:
+- Search for countries by name
+- Filter countries by region
+- View detailed country information
+- Switch between light and dark mode
+- Use the application on all screen sizes
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Screenshot
 
-## Expanding the ESLint configuration
+![REST Countries Preview](./preview.jpg)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Built With
+
+- React
+- React Router
+- Tailwind CSS
+- Vite
+- REST Countries API
+
+## Features
+
+- Responsive design
+- Dynamic routing
+- Dark mode
+- API integration
+- Country detail pages
+- Search and filtering
+
+## Installation
+
+npm install
+npm run dev
+
+## Live Demo
+
+(https://terezl.github.io/REST-countries/)
+
+## Author
+
+GitHub: https://github.com/TerezL
